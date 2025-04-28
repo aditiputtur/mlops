@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/2ef9d816f85d4e46bf44f24718aa8c56/artifacts
+end_time: 1745822828970
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 2ef9d816f85d4e46bf44f24718aa8c56
+run_name: overjoyed-stoat-486
+run_uuid: 2ef9d816f85d4e46bf44f24718aa8c56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822826466
+status: 3
+tags: []
+user_id: aditi

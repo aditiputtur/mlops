@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/c01192641c6a4dc6a39de587fa1cf5f0/artifacts
+end_time: 1745822865473
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: c01192641c6a4dc6a39de587fa1cf5f0
+run_name: serious-sow-966
+run_uuid: c01192641c6a4dc6a39de587fa1cf5f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822862200
+status: 3
+tags: []
+user_id: aditi

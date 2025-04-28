@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/546c370931564e8b840e4a28e4c144cf/artifacts
+end_time: 1745822694170
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 546c370931564e8b840e4a28e4c144cf
+run_name: amusing-fawn-387
+run_uuid: 546c370931564e8b840e4a28e4c144cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822694114
+status: 3
+tags: []
+user_id: aditi

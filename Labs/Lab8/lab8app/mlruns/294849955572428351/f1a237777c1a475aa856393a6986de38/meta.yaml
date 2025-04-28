@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/f1a237777c1a475aa856393a6986de38/artifacts
+end_time: 1745822704646
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: f1a237777c1a475aa856393a6986de38
+run_name: chill-quail-455
+run_uuid: f1a237777c1a475aa856393a6986de38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822704599
+status: 3
+tags: []
+user_id: aditi

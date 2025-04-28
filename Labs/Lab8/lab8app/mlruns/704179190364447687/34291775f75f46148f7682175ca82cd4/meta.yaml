@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/34291775f75f46148f7682175ca82cd4/artifacts
+end_time: 1745822803462
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 34291775f75f46148f7682175ca82cd4
+run_name: shivering-gnu-316
+run_uuid: 34291775f75f46148f7682175ca82cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822801289
+status: 3
+tags: []
+user_id: aditi

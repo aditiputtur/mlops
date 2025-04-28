@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/951562398917442a8078e1f81eb1b17c/artifacts
+end_time: 1745822722192
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 951562398917442a8078e1f81eb1b17c
+run_name: invincible-whale-319
+run_uuid: 951562398917442a8078e1f81eb1b17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822721307
+status: 3
+tags: []
+user_id: aditi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/6fcad27dc5e64d66a6a15cbb9159ba31/artifacts
+end_time: 1745822841253
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 6fcad27dc5e64d66a6a15cbb9159ba31
+run_name: efficient-sponge-835
+run_uuid: 6fcad27dc5e64d66a6a15cbb9159ba31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822838140
+status: 3
+tags: []
+user_id: aditi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/98bfa7d7e81d485c9b53f70afd673eda/artifacts
+end_time: 1745822715645
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 98bfa7d7e81d485c9b53f70afd673eda
+run_name: stylish-fowl-883
+run_uuid: 98bfa7d7e81d485c9b53f70afd673eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822715302
+status: 3
+tags: []
+user_id: aditi

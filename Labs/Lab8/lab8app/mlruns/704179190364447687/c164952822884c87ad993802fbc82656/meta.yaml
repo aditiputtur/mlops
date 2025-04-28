@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/c164952822884c87ad993802fbc82656/artifacts
+end_time: 1745822813072
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: c164952822884c87ad993802fbc82656
+run_name: nosy-crab-81
+run_uuid: c164952822884c87ad993802fbc82656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822810934
+status: 3
+tags: []
+user_id: aditi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/cff7facecc5b456dba6de577be214df5/artifacts
+end_time: 1745822734046
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: cff7facecc5b456dba6de577be214df5
+run_name: orderly-doe-497
+run_uuid: cff7facecc5b456dba6de577be214df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822732078
+status: 3
+tags: []
+user_id: aditi

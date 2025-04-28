@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/437c349dd232432793ea6fa876a6798a/artifacts
+end_time: 1745822875342
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 437c349dd232432793ea6fa876a6798a
+run_name: legendary-sloth-860
+run_uuid: 437c349dd232432793ea6fa876a6798a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822871592
+status: 3
+tags: []
+user_id: aditi

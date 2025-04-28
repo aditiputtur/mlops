@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/60d9d38188f54f91982c51d2ac739601/artifacts
+end_time: 1745822815807
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 60d9d38188f54f91982c51d2ac739601
+run_name: spiffy-jay-636
+run_uuid: 60d9d38188f54f91982c51d2ac739601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822813101
+status: 3
+tags: []
+user_id: aditi

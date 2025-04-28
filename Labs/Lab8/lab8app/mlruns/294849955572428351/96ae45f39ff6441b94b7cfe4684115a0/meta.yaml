@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/96ae45f39ff6441b94b7cfe4684115a0/artifacts
+end_time: 1745822694686
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 96ae45f39ff6441b94b7cfe4684115a0
+run_name: thundering-flea-513
+run_uuid: 96ae45f39ff6441b94b7cfe4684115a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822694596
+status: 3
+tags: []
+user_id: aditi

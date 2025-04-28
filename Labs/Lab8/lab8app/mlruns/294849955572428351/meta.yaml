@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/294849955572428351
+creation_time: 1745822564720
+experiment_id: '294849955572428351'
+last_update_time: 1745822564720
+lifecycle_stage: active
+name: demo-experiment

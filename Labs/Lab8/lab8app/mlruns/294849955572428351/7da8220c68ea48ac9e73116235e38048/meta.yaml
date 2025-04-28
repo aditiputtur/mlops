@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/7da8220c68ea48ac9e73116235e38048/artifacts
+end_time: 1745822713601
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 7da8220c68ea48ac9e73116235e38048
+run_name: indecisive-cub-16
+run_uuid: 7da8220c68ea48ac9e73116235e38048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822713052
+status: 3
+tags: []
+user_id: aditi

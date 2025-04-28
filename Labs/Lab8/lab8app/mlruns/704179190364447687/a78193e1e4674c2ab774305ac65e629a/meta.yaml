@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/a78193e1e4674c2ab774305ac65e629a/artifacts
+end_time: 1745822860015
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: a78193e1e4674c2ab774305ac65e629a
+run_name: bemused-gnat-388
+run_uuid: a78193e1e4674c2ab774305ac65e629a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822856437
+status: 3
+tags: []
+user_id: aditi

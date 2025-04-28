@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/f8ae9686071948cfaa9b1ad7595e1b57/artifacts
+end_time: 1745822716580
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: f8ae9686071948cfaa9b1ad7595e1b57
+run_name: defiant-mole-791
+run_uuid: f8ae9686071948cfaa9b1ad7595e1b57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822715668
+status: 3
+tags: []
+user_id: aditi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/4cb3955528074a68a59ab9168faf053a/artifacts
+end_time: 1745822719096
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 4cb3955528074a68a59ab9168faf053a
+run_name: redolent-turtle-240
+run_uuid: 4cb3955528074a68a59ab9168faf053a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822718650
+status: 3
+tags: []
+user_id: aditi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/a79f0e072c5a47a69274ca2a3bc9343d/artifacts
+end_time: 1745822704705
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: a79f0e072c5a47a69274ca2a3bc9343d
+run_name: bold-fly-733
+run_uuid: a79f0e072c5a47a69274ca2a3bc9343d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822704664
+status: 3
+tags: []
+user_id: aditi

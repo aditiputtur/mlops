@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/7c4dbfdc82f847e187f0a8fba242a783/artifacts
+end_time: 1745822702293
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 7c4dbfdc82f847e187f0a8fba242a783
+run_name: puzzled-tern-357
+run_uuid: 7c4dbfdc82f847e187f0a8fba242a783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822702245
+status: 3
+tags: []
+user_id: aditi

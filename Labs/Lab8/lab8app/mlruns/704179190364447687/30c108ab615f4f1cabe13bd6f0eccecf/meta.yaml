@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/30c108ab615f4f1cabe13bd6f0eccecf/artifacts
+end_time: 1745822806509
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 30c108ab615f4f1cabe13bd6f0eccecf
+run_name: luxuriant-cod-664
+run_uuid: 30c108ab615f4f1cabe13bd6f0eccecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822803485
+status: 3
+tags: []
+user_id: aditi

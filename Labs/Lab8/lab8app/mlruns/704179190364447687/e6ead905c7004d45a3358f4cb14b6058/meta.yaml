@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/e6ead905c7004d45a3358f4cb14b6058/artifacts
+end_time: 1745822856420
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: e6ead905c7004d45a3358f4cb14b6058
+run_name: bouncy-hog-368
+run_uuid: e6ead905c7004d45a3358f4cb14b6058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822853721
+status: 3
+tags: []
+user_id: aditi

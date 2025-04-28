@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/9757697c67aa4e41aa0c852bb5bca416/artifacts
+end_time: 1745822862183
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 9757697c67aa4e41aa0c852bb5bca416
+run_name: incongruous-ant-293
+run_uuid: 9757697c67aa4e41aa0c852bb5bca416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822860039
+status: 3
+tags: []
+user_id: aditi

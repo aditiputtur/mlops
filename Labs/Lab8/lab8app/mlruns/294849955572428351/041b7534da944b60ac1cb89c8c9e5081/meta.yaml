@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/041b7534da944b60ac1cb89c8c9e5081/artifacts
+end_time: 1745822709500
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 041b7534da944b60ac1cb89c8c9e5081
+run_name: judicious-jay-617
+run_uuid: 041b7534da944b60ac1cb89c8c9e5081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822709453
+status: 3
+tags: []
+user_id: aditi

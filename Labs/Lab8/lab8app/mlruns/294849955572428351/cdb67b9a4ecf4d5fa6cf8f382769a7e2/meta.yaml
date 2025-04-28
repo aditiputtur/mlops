@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/cdb67b9a4ecf4d5fa6cf8f382769a7e2/artifacts
+end_time: 1745822721282
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: cdb67b9a4ecf4d5fa6cf8f382769a7e2
+run_name: unruly-wren-999
+run_uuid: cdb67b9a4ecf4d5fa6cf8f382769a7e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822720794
+status: 3
+tags: []
+user_id: aditi

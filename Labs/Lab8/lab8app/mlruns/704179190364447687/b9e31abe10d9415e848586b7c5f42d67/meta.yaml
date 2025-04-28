@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/b9e31abe10d9415e848586b7c5f42d67/artifacts
+end_time: 1745822801264
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: b9e31abe10d9415e848586b7c5f42d67
+run_name: persistent-gull-233
+run_uuid: b9e31abe10d9415e848586b7c5f42d67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822799215
+status: 3
+tags: []
+user_id: aditi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/294849955572428351/8bc1f0ddc2054fd398ce237090b8d462/artifacts
+end_time: 1745822714178
+entry_point_name: ''
+experiment_id: '294849955572428351'
+lifecycle_stage: active
+run_id: 8bc1f0ddc2054fd398ce237090b8d462
+run_name: fortunate-jay-570
+run_uuid: 8bc1f0ddc2054fd398ce237090b8d462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822713621
+status: 3
+tags: []
+user_id: aditi

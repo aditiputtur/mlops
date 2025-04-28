@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/8f362ccba2a949e683615e266f8c1a07/artifacts
+end_time: 1745822871575
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 8f362ccba2a949e683615e266f8c1a07
+run_name: abundant-horse-694
+run_uuid: 8f362ccba2a949e683615e266f8c1a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822868424
+status: 3
+tags: []
+user_id: aditi

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/9ef170a00e964e06acbac128e6f39312/artifacts
+end_time: 1745822799195
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 9ef170a00e964e06acbac128e6f39312
+run_name: luminous-bird-485
+run_uuid: 9ef170a00e964e06acbac128e6f39312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822796663
+status: 3
+tags: []
+user_id: aditi

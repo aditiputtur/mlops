@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/ce4e206396234df6a836748d4bf6cffa/artifacts
+end_time: 1745822877504
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: ce4e206396234df6a836748d4bf6cffa
+run_name: handsome-stoat-955
+run_uuid: ce4e206396234df6a836748d4bf6cffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822875360
+status: 3
+tags: []
+user_id: aditi

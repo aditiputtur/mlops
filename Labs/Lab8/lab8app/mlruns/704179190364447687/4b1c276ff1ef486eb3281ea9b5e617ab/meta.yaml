@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704179190364447687/4b1c276ff1ef486eb3281ea9b5e617ab/artifacts
+end_time: 1745822868405
+entry_point_name: ''
+experiment_id: '704179190364447687'
+lifecycle_stage: active
+run_id: 4b1c276ff1ef486eb3281ea9b5e617ab
+run_name: merciful-donkey-613
+run_uuid: 4b1c276ff1ef486eb3281ea9b5e617ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745822865492
+status: 3
+tags: []
+user_id: aditi
